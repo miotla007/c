@@ -1,0 +1,2 @@
+
+double pobierz_rzeczywista();
