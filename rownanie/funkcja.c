@@ -12,7 +12,7 @@ void wczytaj_dane(void)
 
 void oblicz_rownanie(void)
 {
-    x = a / b;
+    x = b / a;
 }
 
 void wypisz_wynik(void)
