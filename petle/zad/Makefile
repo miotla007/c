@@ -8,4 +8,4 @@ clear: *.out *.o
 	rm -rf *.out *.o *.*~
 
 test: a.out
-	./a.out paliwo
+	./a.out tankowanie

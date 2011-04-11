@@ -9,7 +9,7 @@ int main(int argc, char *argv[])
 
     in_handle = fopen(argv[1], "r");
 
-    przetworz(&in_handle);
+    wykonaj(&in_handle);
 
     return EXIT_SUCCESS;
 }

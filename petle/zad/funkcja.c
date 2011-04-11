@@ -30,7 +30,7 @@ void podsumowanie(unsigned int km, double litr, double koszt, double cena, int i
     zuzycie(km, litr, koszt);
     oblicz_koszt(km, litr, cena / i);
 }
-void przetworz(FILE ** in_handle)
+void wykonaj(FILE ** in_handle)
 {
     unsigned int ui, km = 0;
     double x, y, litr = 0, koszt = 0, cena = 0;
