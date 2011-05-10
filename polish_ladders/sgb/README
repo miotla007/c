@@ -1,4 +1,0 @@
-./install
-cd sgb
-make polishladders
-./polish_ladders
